@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Soanki",
+    "slug": "soanki",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F2F0FF"
+    },
+    "description": "A spaced repetition learning app using the Anki cards method",
+    "githubUrl": "",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": ""
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#F2F0FF"
+      },
+      "package": "",
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "your-eas-project-id"
+      }
+    }
+  }
+}
