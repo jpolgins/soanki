@@ -1,6 +1,6 @@
 # SoAnki
 
-🧠 Soanki is a mobile application designed to help users learn 📖 new skills using the spaced 🔁 repetition method with anki cards. Built with 🙏 React Native and Expo, it offers a simple yet effective way to create and study flashcards.
+🧠 Soanki is a mobile application designed to help users learn new skills using the spaced 🔁 repetition method with anki cards. Built with 🙏 React Native and Expo, it offers a simple yet effective way to create and study flashcards.
 
 🌀 **VibeCode™**
 
