@@ -4,10 +4,7 @@
 
 🌀 **VibeCode™**
 
-<p float="left">
-  <img src="./examples/example_1.jpg" alt="example_1" width="350"/>
-  <img src="./examples/example_2.jpg" alt="example_2" width="300"/>
-</p>
+<img src="./examples/soanki_example.gif" alt="example_1" width="200"/>
 
 ## Features ✅
 
